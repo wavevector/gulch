@@ -24,6 +24,7 @@ Perfect for:
 ## Getting Started
 
 You can find a compiled hoop.exe in the Releases section toward the right of the page under the `About` section.
+
 For those who don't want to run a random .exe, you can see whats in the hoop.ahk file in this repo, and run that.
 
 ### 1. Install AutoHotkey v2
